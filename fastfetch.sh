@@ -69,7 +69,7 @@ echo ""
 echo "==========================================="
 echo "   ✅ Fastfetch Installed Successfully!"
 echo "   🎉 Enjoy the clean system info tool!"
-echo "   🔥 Script Made by Hopingboyz"
+echo "   🔥 Script Made by lie_kg"
 echo "==========================================="
 echo ""
 fastfetch
