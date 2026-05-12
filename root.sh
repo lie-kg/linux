@@ -2,7 +2,7 @@
 
 ############################################################
 #                                                          #
-#                 HOPINGBOYZ PROOT SYSTEM                  #
+#                 LIE-KG PROOT SYSTEM                  #
 #                   Ubuntu 22.04 LTS VM                    #
 #                                                          #
 #            Fast • Stable • Optimized • Modern            #
