@@ -44,7 +44,7 @@ sleep 1
 
 # Custom MOTD Install
 echo -e "\033[1;34m▶ Installing Custom MOTD...\033[0m"
-bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/linux/main/hrnodes-motd.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/lie-kg/linux/main/hrnodes-motd.sh)
 
 echo -e "\033[1;32m✔ Custom MOTD Installed!\033[0m"
 sleep 1
