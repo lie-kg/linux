@@ -20,7 +20,7 @@ cat << "EOF"
                                                                                         
 
                         LocaltoNet Installer
-                     Made with ❤️  by Hopingboyz
+                     Made with ❤️  by lie_kg
 EOF
 echo -e "\e[0m"
 
@@ -81,5 +81,5 @@ echo "🚀 You can now start tunnels using:"
 echo "   localtonet http 80"
 echo "   localtonet tcp 25565"
 echo
-echo "✨ Script by Hopingboyz"
+echo "✨ Script by lie_kg"
 echo "--------------------------------------------------"
